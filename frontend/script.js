@@ -52,7 +52,7 @@ function renderMedicines(data) {
  * render the data and clear #error. Show/hide the #loading area while working.
  */
 async function fetchUnreliable() {
-    // TODO: implement the retry loop here.
+    // TODO: implement the retry loop here
 }
 
 // ---- Button wiring (already works - no need to change) ----
